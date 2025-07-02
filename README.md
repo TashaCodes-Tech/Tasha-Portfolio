@@ -1,61 +1,27 @@
-# TashaCodes Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>TashaCodes Portfolio</title>
+</head>
+<body>
+	<h1>Hi, I'm Natasha</h1>
+	<p>Aspiring Full Stack Developer | #TashaCodes</p>
 
-This is my personal portfolio — a space where I showcase my projects, skills, and journey as I grow into full stack development.
+	<h2>About Me</h2>
+	<p>I'm currently learning HTML, CSS, and JavaScript. I'm passionate about building websites and documenting my journey as a self-taught developer.</p>
 
----
+	<h2>What I'm Learning</h2>
+	<ul>
+		<li>HTML - Verified</li>
+		<li>CSS - loading...</li>
+		<li>JavaScript - coming soon!</li>
+	</ul>
 
-## 📖 About
+	<h2>Connect With Me</h2>
+	<p>
+		<a href="https://www.linkedin.com/in/natasha-iyowe-496936372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a><br>
+	</p>
 
-As a beginner developer, I created this portfolio to:
-- Introduce who I am
-- Share the projects I’ve built
-- Practice HTML, CSS, and JavaScript
-- Get comfortable with GitHub and GitHub Pages
-
----
-
-## 🛠️ Built With
-
-- HTML – page structure   
-- GitHub Pages – to host and share it online  
-
----
-
-## 📁 Files Included
-
-- `index.html` – Main portfolio page  
-- `images/` – Portfolio images and icons
-
----
-
-## 🧠 What I Learned
-
-- Organizing and structuring a personal website
-- Responsive design using CSS
-- Hosting a live project with GitHub Pages
-- Presenting my work in a clear, confident way
-
----
-
-## 👩🏽‍💻 About Me
-
-**Natasha Iyowe — TashaCodes-Tech**  
-- Beginner Frontend Developer  
-- Learning full stack development  
-- Lover of creativity, structure, and storytelling through code  
-
-🔗 Connect with me:  
-- GitHub: [@TashaCodes-Tech](https://github.com/TashaCodes-Tech)  
-- LinkedIn: [Natasha Iyowe](https://www.linkedin.com/in/natasha-iyowe-496936372)
-
----
-
-## 🤝 Contributions
-
-This project is 100% mine — but feel free to fork it for inspiration or learning!
-
----
-
-## 📜 License
-
-Open to all for educational use 🌱✨
+</body>
+</html>
